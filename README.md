@@ -1,5 +1,5 @@
 # Generador de Exámenes con Anclaje Documental Estricto y Telemetría de Coste
-### Demo técnica para PROXUS — construida por [Tu Nombre]
+### Demo técnica para PROXUS — construida por Marcos Carbajo Echalecu 
 
 > Demo en vivo: `https://TU-URL.streamlit.app` (rellenar tras despliegue)
 
